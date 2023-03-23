@@ -74,4 +74,4 @@ print(f"\n Tardaste {total_time.seconds} segundos.")
 print(f"\n Tenes {cont_correctas} respuestas correctas.")
 #Cuantas incorrectas:
 cont_incorrectas = 5 - cont_correctas
-print(f"\n Tenes {cont_incorrectas} respuestas correctas.")
+print(f"\n Tenes {cont_incorrectas} respuestas incorrectas.")
